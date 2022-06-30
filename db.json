@@ -1,12 +1,25 @@
 {
-    "ice-cream":{
-        "flavour": ["Classic Hot Fudge", "Coconut Coffee Crunch", "Blueberry Pie Sauce", "something", "add more"],
-        "cone": ["Sugar Cones", " Waffle Cones"],
-        "topping": ["Salted Dark Chocolate Hot Fudge", "Raspberry Dark Chocolate Hot Fudge", "Classic Hot Fudge", "Orange-Chocolate Hot Fudge"]
-    },
-    "cake":{
-        "bottom": "Something",
-        "cream": "Example",
-        "top": "Cherry"
-    }
+  "ice-cream": {
+    "flavour": [
+      "Classic Hot Fudge",
+      "Coconut Coffee Crunch",
+      "Blueberry Pie Sauce",
+      "something",
+      "add more",
+      "add somthing"
+    ],
+    "cone": ["Sugar Cones", " Waffle Cones"],
+    "topping": [
+      "Salted Dark Chocolate Hot Fudge",
+      "Raspberry Dark Chocolate Hot Fudge",
+      "Classic Hot Fudge",
+      "Orange-Chocolate Hot Fudge"
+    ]
+  },
+  
+  "cake": {
+    "bottom": "Something",
+    "cream": "Example",
+    "top": "Cherry"
+  }
 }
