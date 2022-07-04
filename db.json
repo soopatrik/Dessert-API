@@ -21,5 +21,37 @@
     "bottom": "Something",
     "cream": "Example",
     "top": "Cherry"
+  },
+  "Cupcakes": {
+    "cake": [
+      {"id": 1, "name": "Chocolate cake", "img": "chocolate-cake.png"},
+      {"id": 2, "name": "Vanilla cake", "img": "vanilla-cake.png"},
+      {"id": 3, "name": "Red velvet cake", "img": "red-velvet-cake.png"},
+      {"id": 4, "name": "Lemon cake", "img": "lemon-cake.png"}
+    ],
+    "icing": [
+      {"id": 1, "name": "Chocolate buttercream", "img": "Chocolate.png"},
+      {"id": 2, "name": "Vanilla buttercream", "img": "Vanilla.png"},
+      {"id": 3, "name": "Mint buttercream", "img": "Mint.png"},
+      {"id": 4, "name": "Lemon buttercream", "img": "Lemon.png"},
+      {"id": 5, "name": "Peanut buttercream", "img": "Peanut-butter.png"},
+      {"id": 6, "name": "Strawberry buttercream", "img": "Strawberry.png"},
+      {"id": 7, "name": "Pink vanilla buttercream", "img": "Pink-vanilla.png"},
+      {"id": 8, "name": "Cream cheese buttercream", "img": "Cream-cheese.png"},
+      {"id": 9, "name": "Blueberry buttercream", "img": "Blueberry.png"}
+    ],
+    "sprinkles": [
+      {"id": 1, "name": "Pink pearls", "img": "Pink-pearls.jpeg"},
+      {"id": 2, "name": "Sugar strands", "img": "Sugar-strands.jpeg"},
+      {"id": 3, "name": "Sweet crystal", "img": "Sweet-crystal.jpeg"},
+      {"id": 4, "name": "Sanding sugar", "img": "Sanding-sugar.jpeg"},
+      {"id": 5, "name": "Heart-shaped sprinkles", "img": "Hearts.jpeg"},
+      {"id": 6, "name": "Chocolate chip", "img": "Chocolate-chip.jpeg"}
+    ],
+    "topping": [
+      {"id": 1, "name": "Salted caramel", "img": "salted-caramel.jpeg"},
+      {"id": 2, "name": "Vanilla glaze", "img": "vanilla-glaze.jpeg"},
+      {"id": 3, "name": "Fruit passion", "img": "fruit-passion.jpeg"}
+    ]
   }
 }
